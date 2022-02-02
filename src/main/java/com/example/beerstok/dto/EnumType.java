@@ -1,4 +1,5 @@
 package com.example.beerstok.dto;
 
-public class BeerDto {
+public enum EnumType {
+    STRING
 }
